@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biomedical Engineering Laboratory</string>
+    <string name="title">BIOMEDICAL ENGINEERING LABORATORY</string>
+    <string name="info">Biomedical Engineering Laboratory of the Electrical and Computer Engineering School of National Technical University of Athens</string>
+    <string name="address">Iroon Polytechniou St, 9, 15773 Athens, Greece</string>
+    <string name="phone">21 0772 2269</string>
+    <string name="website">www.biomed.ntua.gr</string>
+</resources>
+
